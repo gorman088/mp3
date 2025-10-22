@@ -5,7 +5,7 @@ export default function Hobbies() {
         <MainContainer>
             <StyledH2> Hobbies </StyledH2>
             <StyledDiv>
-                <StyledImg src="src/assets/Race.PNG" alt="Michael"/>
+                <StyledImg src="public/Race.PNG" alt="Michael"/>
                 <StyledP>One of my favorite hobbies is spending time with my two dogs, an English Lab and an English Bulldog,
                     both of whom love going on walks and playing outside. I have a
                     deep love for the outdoors, whether it’s enjoying fresh air on a quiet walk, running under the open

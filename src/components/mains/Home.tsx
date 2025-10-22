@@ -6,7 +6,7 @@ export default function Home() {
     <MainContainer>
         <StyledH2> Home </StyledH2>
         <StyledDiv>
-            <StyledImg src="src/assets/me.jpg" alt="Michael"/>
+            <StyledImg src="public/me.jpg" alt="Michael"/>
             <StyledP>My name is Michael, and I am a full-time student at Boston University currently pursuing a
                 Bachelor's degree in Computer Science. I am in my third year, with an expected graduation
                 date of Fall 2026. As a transfer student coming from regimented academy, assimilating into
