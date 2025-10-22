@@ -1,5 +1,5 @@
 import {MainContainer, StyledImg, StyledP, StyledDiv, StyledH2} from "../styles/MainStyles.tsx";
-import img01 from "../../../public/me.jpg"
+import img01 from "../../assets/me.jpg"
 
 export default function Home() {
 

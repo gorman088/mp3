@@ -1,5 +1,5 @@
 import {MainContainer, StyledDiv, StyledH2, StyledImg, StyledP} from "../styles/MainStyles.tsx";
-import img02 from "../../../public/Race.png"
+import img02 from "../../assets/Race.PNG"
 
 export default function Hobbies() {
     return (
